@@ -1,4 +1,4 @@
-The following GIF was generated using the code from this repository. It visualizes the movement of bicycles within the Bicing bike-sharing system in the city of Barcelona.
+# The following GIF was generated using the code from this repository. It visualizes the movement of bicycles within the Bicing bike-sharing system in the city of Barcelona.
 
 In the morning:
 
